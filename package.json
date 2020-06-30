@@ -1,0 +1,25 @@
+{
+    "name": "d",
+    "version": "1.0.0",
+    "description": "fullstack",
+    "main": "index.js",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SarahKaren4/fullstack.git"
+    },
+    "author": "Sarah",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SarahKaren4/fullstack/issues"
+    },
+    "homepage": "https://github.com/SarahKaren4/fullstack#readme",
+    "devDependencies": {
+        "http-proxy": "^1.18.1",
+        "lite-server": "^2.5.4"
+    }
+}
